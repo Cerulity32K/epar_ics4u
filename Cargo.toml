@@ -1,0 +1,18 @@
+[package]
+name = "epar"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+macroquad = "0.4.6"
+paste = "1.0.15"
+soloud = "1.0.5"
+jut = { path = "../jut" }
+rand = "0.8.5"
+thiserror = "1.0.61"
+crossbeam = "0.8.4"
+
+[build-dependencies]
+winresource = "0.1.17"
