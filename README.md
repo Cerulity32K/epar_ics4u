@@ -1,0 +1,2 @@
+# EPAR (ICS4U Version)
+This is an unofficial, incomplete, and rushed recreation of Just Shapes and Beats. I made it in my free time in my Grade 12 Computer Science class, where I was allowed to install it on other computers in the class. The better (even if incomplete) version of this is [EPAR](https://github.com/Cerulity32K/epar), although that is _also_ under rewrite to allow for a level editing.
